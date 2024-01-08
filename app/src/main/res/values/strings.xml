@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PruebaUnidad_2</string>
+    <string name="Producto_form_agregar" >Agregar Producto</string>
+    <string name="logo">Logo</string>
+    <string name="Producto_form_eliminar">Eliminar Producto</string>
+</resources>
